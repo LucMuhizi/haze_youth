@@ -1,20 +1,70 @@
 ---
 draft: false
-title: " Introduction to the Essential Data Structures & Algorithms"
+title: "A poem by Marthe Nsaba"
 snippet: "Ornare cum cursus laoreet sagittis nunc fusce posuere per euismod dis vehicula a, semper fames lacus maecenas dictumst pulvinar neque enim non potenti. Torquent hac sociosqu eleifend potenti."
 image: {
-    src: "https://images.unsplash.com/photo-1627163439134-7a8c47e08208?&fit=crop&w=430&h=240",
-    alt: "data structures & algorithms"
+    src: "https://images.unsplash.com/photo-1593720213428-28a5b9e94613?&fit=crop&w=430&h=240",
+    alt: "full stack web development"
 }
-publishDate: "2022-11-09 16:39"
-category: "Courses"
-author: "Marcell Ziemann"
+publishDate: "2022-11-08 11:39"
+category: "Life Poem"
+author: "Marthe Nsaba"
 tags: [webdev, tailwindcss, frontend]
 ---
+Life is a fountain of youth;
 
-Lorem ipsum dolor sit amet consectetur adipiscing elit euismod rutrum, consequat fringilla ultricies nullam curae mollis semper conubia viverra, orci aenean dapibus pharetra nec tortor tellus cubilia. Ullamcorper mi lectus eu malesuada tempor massa praesent magna mattis posuere, lobortis vulputate ut duis magnis parturient habitant nibh id tristique, quis suspendisse donec nisl penatibus sem non feugiat taciti. Mollis per ridiculus integer cursus semper vestibulum fermentum penatibus cubilia blandit scelerisque, tempus platea leo posuere ac pharetra volutpat aliquet euismod id ullamcorper lobortis, urna est magna mus rhoncus massa curae libero praesent eget. Mattis malesuada vestibulum quis ac nam phasellus suscipit facilisis libero diam posuere, cursus massa vehicula neque imperdiet tincidunt dui egestas lacinia mollis aliquet orci, nisl curabitur dapibus litora dis cum nostra montes ligula praesent. Facilisi aliquam convallis molestie tempor blandit ultricies bibendum parturient cubilia quam, porttitor morbi torquent tempus taciti nec faucibus elementum phasellus, quis inceptos vestibulum gravida augue potenti eget nunc maecenas. Tempor facilisis ligula volutpat habitant consequat inceptos orci per potenti blandit platea, mus sapien eget vel libero vestibulum augue cubilia ut ultrices fringilla lectus, imperdiet pellentesque cum ridiculus convallis sollicitudin nisl interdum semper felis.
+Not quite everlasting;
 
-Ornare cum cursus laoreet sagittis nunc fusce posuere per euismod dis vehicula a, semper fames lacus maecenas dictumst pulvinar neque enim non potenti. Torquent hac sociosqu eleifend potenti augue nulla vivamus senectus odio, quisque curabitur enim consequat class sociis feugiat ullamcorper, felis dis imperdiet cubilia commodo sed massa phasellus. Viverra purus mus nisi condimentum dui vehicula facilisis turpis, habitant nascetur lectus tempor quisque habitasse urna scelerisque, nibh nullam vestibulum luctus aenean mollis metus. Suscipit gravida duis nec aliquet natoque molestie a ridiculus scelerisque cum, justo cursus sapien sodales purus dignissim vel facilisi magnis, inceptos rutrum ut integer auctor commodo sollicitudin fames et. Faucibus ligula nibh sagittis mauris auctor posuere habitant, scelerisque phasellus accumsan egestas gravida viverra nam, sed etiam eleifend proin massa dictumst. Porttitor risus luctus per aenean tellus primis fringilla vitae fames lacinia mauris metus, nec pulvinar quisque commodo sodales ac nibh natoque phasellus semper placerat. Lectus aenean potenti leo sollicitudin tristique eros quam ligula, vestibulum diam consequat enim torquent nec tempus, blandit viverra dapibus eleifend dis nunc nascetur.
+So don’t waste your life;
+
+Live it to the fullest;
+
+But don’t throw it all away.
+
+ 
+
+Life is what you make it;
+
+Know who you are;
+
+Your values and vices;
+
+Your strengths and weaknesses;
+
+Your truth and story;
+
+Don’t try to fit in but add to.
+
+ 
+
+Life is a dance;
+
+The music will eventually stop;
+
+So don’t speed through it;
+
+Enjoy every moment;
+
+Even the missteps.
+
+ 
+
+Life is a lesson;
+
+Mistakes experienced;
+
+Fake friends made;
+
+Wrong turns taken;
+
+When we almost break,
+
+But we keep learning. 
+
+We have to not only believe but know that we have that spark in us. Let us use that to IGNITE an impact
+
+
+
 
 ## Sodales hendrerit malesuada et vestibulum
 

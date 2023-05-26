@@ -1,21 +1,26 @@
 ---
 draft: false
-title: "The Complete Guide to Full Stack Web Development"
+title: " Technology and the future of work"
 snippet: "Ornare cum cursus laoreet sagittis nunc fusce posuere per euismod dis vehicula a, semper fames lacus maecenas dictumst pulvinar neque enim non potenti. Torquent hac sociosqu eleifend potenti."
 image: {
-    src: "https://images.unsplash.com/photo-1593720213428-28a5b9e94613?&fit=crop&w=430&h=240",
-    alt: "full stack web development"
+    src: "https://images.unsplash.com/photo-1627163439134-7a8c47e08208?&fit=crop&w=430&h=240",
+    alt: "data structures & algorithms"
 }
-publishDate: "2022-11-08 11:39"
-category: "Tutorials"
-author: "Janette Lynch"
+publishDate: "2022-11-09 16:39"
+category: "Courses"
+author: "Luc Muhizi"
 tags: [webdev, tailwindcss, frontend]
 ---
 
-Lorem ipsum dolor sit amet consectetur adipiscing elit euismod rutrum, consequat fringilla ultricies nullam curae mollis semper conubia viverra, orci aenean dapibus pharetra nec tortor tellus cubilia. Ullamcorper mi lectus eu malesuada tempor massa praesent magna mattis posuere, lobortis vulputate ut duis magnis parturient habitant nibh id tristique, quis suspendisse donec nisl penatibus sem non feugiat taciti. Mollis per ridiculus integer cursus semper vestibulum fermentum penatibus cubilia blandit scelerisque, tempus platea leo posuere ac pharetra volutpat aliquet euismod id ullamcorper lobortis, urna est magna mus rhoncus massa curae libero praesent eget. Mattis malesuada vestibulum quis ac nam phasellus suscipit facilisis libero diam posuere, cursus massa vehicula neque imperdiet tincidunt dui egestas lacinia mollis aliquet orci, nisl curabitur dapibus litora dis cum nostra montes ligula praesent. Facilisi aliquam convallis molestie tempor blandit ultricies bibendum parturient cubilia quam, porttitor morbi torquent tempus taciti nec faucibus elementum phasellus, quis inceptos vestibulum gravida augue potenti eget nunc maecenas. Tempor facilisis ligula volutpat habitant consequat inceptos orci per potenti blandit platea, mus sapien eget vel libero vestibulum augue cubilia ut ultrices fringilla lectus, imperdiet pellentesque cum ridiculus convallis sollicitudin nisl interdum semper felis.
+We live in a society that relies heavily on technology to improve our lives. Due to innovation, we can learn any new skill and research has been made more accessible. Whereas we may have many distractions due to social media, our foundation encourages all young people to learn and to have focus to improve ourselves.
 
-Ornare cum cursus laoreet sagittis nunc fusce posuere per euismod dis vehicula a, semper fames lacus maecenas dictumst pulvinar neque enim non potenti. Torquent hac sociosqu eleifend potenti augue nulla vivamus senectus odio, quisque curabitur enim consequat class sociis feugiat ullamcorper, felis dis imperdiet cubilia commodo sed massa phasellus. Viverra purus mus nisi condimentum dui vehicula facilisis turpis, habitant nascetur lectus tempor quisque habitasse urna scelerisque, nibh nullam vestibulum luctus aenean mollis metus. Suscipit gravida duis nec aliquet natoque molestie a ridiculus scelerisque cum, justo cursus sapien sodales purus dignissim vel facilisi magnis, inceptos rutrum ut integer auctor commodo sollicitudin fames et. Faucibus ligula nibh sagittis mauris auctor posuere habitant, scelerisque phasellus accumsan egestas gravida viverra nam, sed etiam eleifend proin massa dictumst. Porttitor risus luctus per aenean tellus primis fringilla vitae fames lacinia mauris metus, nec pulvinar quisque commodo sodales ac nibh natoque phasellus semper placerat. Lectus aenean potenti leo sollicitudin tristique eros quam ligula, vestibulum diam consequat enim torquent nec tempus, blandit viverra dapibus eleifend dis nunc nascetur.
+ 
 
+Our goal as a Foundation is to empower young people and to create safe spaces both online and in-person, where we can share ideas and connect with youth with similar mind sets. With these safe places, we provide mentorship and easy access to learning materials. Our Foundation provides for freedom of expression so no one feels out of place. We ensure that everyone is comfortable.
+
+ 
+
+I believe that we all can contribute to change. What we perhaps need is encouragement, companionship and mentorship. I encourage youth to join our Foundation because there is power in numbers. One of our Foundation’s objectives is to unleash young people’s creativity and innovation. Together, we can make a difference. Together, we can build a better world for tomorrow.
 ## Sodales hendrerit malesuada et vestibulum
 
 - Luctus euismod pretium nisi et, est dui enim.

@@ -1,10 +1,10 @@
 ---
 draft: false
-name: "Janette Lynch"
-title: "Senior Director"
+name: "Luc Muhizi"
+title: "CTO"
 avatar: {
-    src: "https://images.unsplash.com/photo-1580489944761-15a19d654956?&fit=crop&w=280",
-    alt: "Janette Lynch"
+    src: "https://i.postimg.cc/KYyXy18Y/luc.jpg",
+    alt: "Luc Muhizi"
 }
-publishDate: "2022-11-07 15:39"
+publishDate: "2022-11-09 15:39"
 ---
