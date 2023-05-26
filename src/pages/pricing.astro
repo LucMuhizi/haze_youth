@@ -6,16 +6,15 @@ import Pricing from "@components/pricing.astro";
 
 const pricing = [
   {
-    name: "Personal",
-    price: "Free",
+    name: "Safe Place",
+    price: "$1,000",
     popular: false,
     features: [
-      "Lifetime free",
-      "Up to 3 users",
-      "Unlimited Pages",
-      "Astro Sub domain",
-      "Basic Integrations",
-      "Community Support",
+      "Safe Place for help",
+      "Counseling",
+      "Free Mental Health Checkups",
+      "Life Coaching",
+      
     ],
     button: {
       text: "Get Started",
@@ -23,21 +22,19 @@ const pricing = [
     },
   },
   {
-    name: "Startup",
+    name: "Studio",
     price: {
-      monthly: "$19",
+      monthly: "$10,000",
       annual: "$16",
       discount: "10%",
       original: "$24",
     },
     popular: true,
     features: [
-      "All Free Features",
-      "Up to 20 users",
-      "20 Custom domains",
-      "Unlimited Collaborators",
-      "Advanced Integrations",
-      "Priority Support",
+      "Music Production",
+      "Offers lessons",
+      "Business of Music",
+      "Video Production"
     ],
     button: {
       text: "Get Started",
@@ -45,16 +42,14 @@ const pricing = [
     },
   },
   {
-    name: "Enterprise",
-    price: "Custom",
+    name: "Rehab Centre",
+    price: "100,000",
     popular: false,
     features: [
-      "All Pro Features",
-      "Unlimited Custom domains",
-      "99.99% Uptime SLA",
-      "SAML & SSO Integration",
-      "Dedicated Account Manager",
-      "24/7 Phone Support",
+      "Rehabilitation facilties",
+      "Detox Centre",
+      "Upskilling",
+      "Cross-Border Support"
     ],
     button: {
       text: "Contact us",
@@ -67,9 +62,9 @@ const pricing = [
 <Layout title="Pricing">
   <Container>
     <Sectionhead>
-      <Fragment slot="title">Pricing</Fragment>
+      <Fragment slot="title">Donations</Fragment>
       <Fragment slot="desc"
-        >Simple & Predictable pricing. No Surprises.</Fragment
+        >Join our cause and be a part of the family.</Fragment
       >
     </Sectionhead>
 
