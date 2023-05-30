@@ -1,4 +1,2 @@
 User-agent: *
 Allow: /
-
-Sitemap: http://https://haze-youth.vercel.app/
