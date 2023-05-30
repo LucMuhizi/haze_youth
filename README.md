@@ -1,6 +1,20 @@
 
+<<<<<<< Updated upstream
 ## Live Demo
 
+=======
+```bash
+npm install
+# or
+yarn install
+# or (recommended)
+pnpm install
+```
+
+### 3. Start development Server
+
+```bash
+>>>>>>> Stashed changes
 npm run dev
 # or
 yarn dev
@@ -21,7 +35,7 @@ pnpm preview
 pnpm build
 ```
 
-We recommend using [pnpm](https://pnpm.io/) to save disk space on your computer.
+I recommend using [pnpm](https://pnpm.io/) to save disk space on your computer.
 
 ### Other Commands
 
@@ -56,9 +70,12 @@ Any static assets, like images, can be placed in the `public/` directory.
 ## TailwindCSS
 
 TailwindCSS is already configured in this repo, so you can start using it without any installation.
+<<<<<<< Updated upstream
 
 ## Credits
 
 [Hero Illustration](https://www.figma.com/community/file/1108400791662599811) by [Streamline](https://www.streamlinehq.com/)
 
 ## 👀 Want to learn more?
+=======
+>>>>>>> Stashed changes
