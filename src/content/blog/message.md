@@ -4,7 +4,7 @@ draft: false
 title: "🌱 Knowledge is Power 🌱"
 snippet: "Ornare cum cursus laoreet sagittis nunc fusce posuere per euismod dis vehicula a, semper fames lacus maecenas dictumst pulvinar neque enim non potenti. Torquent hac sociosqu eleifend potenti."
 image: {
-    src: "/src/assets/blog.jpg",
+    src: "https://s3-us-west-1.amazonaws.com/realisticshots/2016/0205.jpg",
     alt: "full stack web development"
 }
 publishDate: "2023-09-04 11:39"
