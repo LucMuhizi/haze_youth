@@ -18,10 +18,10 @@ We hope this message finds you well. At #HAZEYouth, we are committed to empoweri
 
 Substance abuse is not just an individual problem; it's a community issue that affects us all. It can start as a coping mechanism or a form of escapism, but it often spirals into a cycle that's hard to break free from. We want you to know that if you or someone you know is struggling with substance abuse, you're not alone, and help is available.
 
-🌱 Knowledge is Power 🌱
+## 🌱 Knowledge is Power 🌱
 Educate yourself about the risks associated with substance abuse, including the impact on your physical and mental health, relationships, and future opportunities. The more you know, the better choices you can make.
 
-🤝 Peer Support 🤝
+## 🤝 Peer Support 🤝
 Surround yourself with positive influences. Peer pressure can be a significant factor in starting substance abuse, but a supportive community can also be a powerful deterrent.
 
 🗣️ Speak Up, Reach Out 🗣️
