@@ -7,7 +7,7 @@ image: {
     alt: "data structures & algorithms"
 }
 publishDate: "2022-11-09 16:39"
-category: "Courses"
+category: "Tech"
 author: "Luc Muhizi"
 tags: [webdev, tailwindcss, frontend]
 ---
