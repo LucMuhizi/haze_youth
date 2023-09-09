@@ -6,6 +6,9 @@ module.exports = {
     extend: {
       colors: {
         'regal-blue': '#243c5a',
+        'lime-green': '#32CD32',
+        'emerald':'#bef264',
+        'dark-blue':'#082f49',
       },
       fontFamily: {
         sans: ["InterVariable", "Inter", ...defaultTheme.fontFamily.sans],
