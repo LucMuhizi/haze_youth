@@ -39,6 +39,10 @@ const menuitems = [
     title: "Safe Space",
     path: "/safeSpace",
   },
+  {
+    title: "Repository Contribution",
+    path: "/repo",
+  }
 ];
 ---
 
@@ -55,25 +59,7 @@ const menuitems = [
           <MenuIcon class="w-4 h-4 text-gray-800" />
         </div>
       </div>
-      <a
-  class="inline-block rounded-full bg-gradient-to-r from-pink-500 via-red-500 to-yellow-500 p-[2px] hover:text-white focus:outline-none focus:ring active:text-opacity-75"
-  href="https://discord.gg/Rc6EU6U2Vh"
->
-  <span
-    class="block rounded-full bg-lime-green px-8 py-3 text-sm font-medium hover:bg-transparent"
-  >
-    Join our Safe Space
-  </span>
-</a><a
-class="inline-block rounded-full bg-gradient-to-r from-pink-500 via-red-500 to-yellow-500 p-[2px] hover:text-white focus:outline-none focus:ring active:text-opacity-75"
-href="https://forms.gle/oJ35f3KF3JGnZtgq7"
->
-<span
-  class="block rounded-full bg-lime-green px-8 py-3 text-sm font-medium hover:bg-transparent"
->
-Sign up here
-</span>
-</a>
+      
       <MenuItems class="hidden w-full lg:w-auto mt-2 lg:flex lg:mt-0">
         <ul class="flex flex-col lg:flex-row lg:gap-3">
           {
@@ -99,7 +85,7 @@ Sign up here
               </>
             ))
           }
-        </ul>
+          </ul>
        <!-- <div class="lg:hidden flex items-center mt-3 gap-4">
           <Link href="#" style="muted" block size="md">Log in</Link>
           <Link href="#" size="md" block>Sign up</Link>
