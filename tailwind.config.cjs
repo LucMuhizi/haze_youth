@@ -9,6 +9,9 @@ module.exports = {
         'lime-green': '#32CD32',
         'emerald':'#bef264',
         'dark-blue':'#082f49',
+        'dark-green':'#134e4a',
+        'light-yellow':'#fef9c3',
+        'light-indigo':'#eef2ff',
       },
       fontFamily: {
         sans: ["InterVariable", "Inter", ...defaultTheme.fontFamily.sans],
