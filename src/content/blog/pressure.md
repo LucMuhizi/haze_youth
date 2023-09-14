@@ -7,7 +7,7 @@ image: {
     alt: "frontend master"
 }
 publishDate: "2022-11-07 15:39"
-category: "Tutorials"
+category: "Social Media"
 author: "Kwizera Mirielle"
 tags: [astro, tailwindcss, frontend]
 ---
